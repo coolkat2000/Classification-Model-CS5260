@@ -23,3 +23,6 @@ Precision=[TP/(TP+FP)] = 50%
 Recall=[TP/(TP+FN)] = 33%
 
 Assignment1 CS 5260
+
+[comment]: <> (Predicted quality is fine, but rewording True Quality to Quality Care Provided would help readers without a STEM background understand that this is sample data being compared to your model's prediction.)
+[comment]: <> (Might be a good touch to add in how much value you estimate good care would add to a hospital's bottom line. I'm assuming the dataset has hospitals in locations that have wide gaps in surrounding population. Total value added would vary widely, but mentioning the value added per patient might give the reader more insight into what improving their ranking will do financially.)
